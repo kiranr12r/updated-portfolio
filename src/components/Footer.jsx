@@ -43,7 +43,7 @@ const Footer = () => {
 
       <div className="max-w-7xl mx-auto mt-16 pt-8 border-t border-white/5 text-center">
         <p className="text-gray-600 text-xs tracking-widest uppercase">
-          © 2026 Noschitha N Achar. Built with React & Tailwind.
+          © 2026 Kiran R. Built with React & Tailwind.
         </p>
       </div>
     </footer>
